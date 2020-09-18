@@ -1,9 +1,9 @@
 #Kim Alexey 
 
 ### Contact info:
-  * **tel:** ######8(999) 248 - 06 - 00;
-  * **e-mail:** ######kenpazz@gmail.com;
-  * **telegramm** ######@kenpak.
+  * **tel:** 8(999) 248 - 06 - 00;
+  * **e-mail:** kenpazz@gmail.com;
+  * **telegramm** kenpak.
   
 ### SUMMARY 
  I'am beginner Web Developer. Recently started learning Web Development. Already know HTML & CSS. And I want to get more knowledge of development! 
