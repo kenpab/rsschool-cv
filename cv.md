@@ -1,4 +1,4 @@
-###### Kim Alexey 
+## Kim Alexey 
 
 ### Contact info:
   * **tel:** 8(999) 248 - 06 - 00;
