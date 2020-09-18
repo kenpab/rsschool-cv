@@ -26,5 +26,5 @@
   **2012 - 2014** eacher of theatre speak. 
                          
 ### Language 
-   **English A2+** 
+   **English A2+**
     
