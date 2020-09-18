@@ -9,7 +9,7 @@
  I'am beginner Web Developer. Recently started learning Web Development. Already know HTML & CSS. And I want to get more knowledge of development! 
  Now I have experience from professional production with a 6+ year background. Hard skills of making beautiful photos with inspiring conceptions and professional trainer theatre speaking. At last! I stand till for high qualifications!
  
- ###SKILLS
+ ### SKILLS
     *HTML & CSS 
     *Photoshop/Illustrator/Lightroom
     *Figma
@@ -19,12 +19,12 @@
     *Public speech 
     *Training of public speech  
   
-###Education
+### Education
   **2007 - 2014** The Herzen State Pedagogical University of Russia.
                     *Human of Philosophy; *Specization:* 
                             *Management of ad projcet.
                             *Teacher of theatre speak. 
                          
-###Language 
+### Language 
     **English A2+** 
     
