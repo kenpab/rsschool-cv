@@ -22,8 +22,8 @@
 ### Education
   **2007 - 2014** The Herzen State Pedagogical University of Russia.
   Human of Philosophy; *Specization:*
-  **2007 - 2012** Management of ad projcet.
-  **2012 - 2014** eacher of theatre speak. 
+  **2007 - 2012** Management of ad projcet;
+  **2012 - 2014** eacher of theatre speak; 
                          
 ### Language 
    **English A2+**
