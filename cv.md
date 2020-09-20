@@ -10,14 +10,14 @@
  Now I have experience from professional production with a 6+ year background. Hard skills of making beautiful photos with inspiring conceptions and professional trainer theatre speaking. At last! I stand till for high qualifications!
  
  ### SKILLS
-    *HTML & CSS 
-    *Photoshop/Illustrator/Lightroom
-    *Figma
-    *Offline promotions
-    *Photo
-    *Retouch
-    *Public speech 
-    *Training of public speech  
+   * HTML & CSS 
+   * Photoshop/Illustrator/Lightroom
+   * Figma
+   * Offline promotions
+   * Photo
+   * Retouch
+   * Public speech 
+   * Training of public speech  
   
 ### Education
   **2007 - 2014** The Herzen State Pedagogical University of Russia.
